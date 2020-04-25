@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+	<title>Suits | Home</title>
+	<link>index.html</link>
+	<description>Suits is a USA Network drama which premiered on June 23, 2011. The series stars Gabriel Macht, and Patrick J. Adams...</description>
+	
+	<item>
+		<title>Suits | Season1</title>
+		<link>season1.html</link>
+		<description>Here you can find short information about first seaeson. </description>
+	</item>
+	
+	<item>
+		<title>Suits | Season2</title>
+		<link>season2.html</link>
+	<description>Soon!</description>
+	</item>
+	
+	<item>
+		<title>Suits | Actors</title>
+		<link>actors.html</link>
+		<description>Here you can find main actors.</description>
+	</item>
+	<item>
+		<title>Suits | Gallery</title>
+		<link>gallery.html</link>
+		<description>Some photos.</description>
+	</item>
+	<item>
+		<title>Suits | Site Creator</title>
+		<link>sitecreator.html</link>
+		<description>Some information about, Filip, sitecreator.</description>
+	</item>
+	
+</channel>
+</rss>
